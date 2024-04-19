@@ -169,6 +169,7 @@ section h2 {
 
 .produtos {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   margin-top: 5%;
   z-index: 1;
