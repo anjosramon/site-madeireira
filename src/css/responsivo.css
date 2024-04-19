@@ -1,4 +1,4 @@
-@media screen and (max-width: 900px){
+@media screen and (max-width: 780px){
 
     .navbar{
         position: relative;
@@ -40,9 +40,8 @@
         text-align: center;
     }
     .img-headline{
-        flex: 100%;
+
         margin: 5%;
-        text-align: center;
     }
     section h2 {
         margin-top: 400px;
@@ -68,7 +67,7 @@
     }
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 770px){
     #sobre .about{
         display: flex;
         margin-top: 1350px;
@@ -89,7 +88,7 @@
       }
 }
 
-@media screen and (min-width: 959px){
+@media screen and (min-width: 789px){
 .header {
     display: flex;
     padding-top: 100px;
