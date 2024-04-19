@@ -1,0 +1,68 @@
+@media screen and (max-width: 1024px){
+
+    .navbar{
+        position: relative;
+        align-items: center;
+        justify-content: center;
+        max-width: 100%;
+    }
+    .headline .fln {
+        font-size: 20px;
+      }
+    .headline h2 {
+        display: flex;
+        font-weight: 900;
+        font-size: 16px;
+        max-width: 100%;
+      }
+    .fixed-menu {
+        display:none;
+    }
+    .menu{
+        display: none;
+    }
+    .logo{
+        margin: 0;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        max-width: 100%;
+    }
+    .header{
+        padding-top: 50px;
+    }
+    .headline{
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+    .headline p{
+        text-align: center;
+    }
+    .img-headline{
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+    section h2 {
+        margin-top: 100px;
+      }
+    .produtos {
+        flex-direction: column; 
+        align-items: center; 
+      }
+    
+      .card {
+        width: 90%; 
+        margin-bottom: 20px; 
+      }
+    #sobre .about{
+        display: flex;
+        margin-top: 1650px;
+        margin-bottom: 30px;
+        padding-top: 35px;
+    }
+    .whatsapp-btn{
+        display: none;
+    }
+}
